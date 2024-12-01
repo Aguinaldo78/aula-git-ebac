@@ -1,11 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Aguinaldo
+-Profissão: Engenheiro de Qualidade de Software
+-Cidade: Curitiba
+-O que faz nas horas vaga: Pratico esportes
 -Feedback sobre o curso Qualidade de Software:
+ Curso muito bem estruturado, abordando os principais conceitos de qualidade de software de forma clara e prática. 
 -Feedback sobre a plataforma de estudo da EBAC:
+De forma geral, a plataforma é bastante funcional e intuitiva, o que facilita a navegação e o acesso ao conteúdo do curso.
 
 Obrigado!!!
 
